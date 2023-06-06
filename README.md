@@ -1,2 +1,2 @@
-# pygame_infinite_runner
-An infinite runner made in pygame
+# Infinite Runner Made In Pygame
+An infinite runner made in pygame. Very basic.
